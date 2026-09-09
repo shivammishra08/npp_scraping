@@ -1,0 +1,5 @@
+npp_coal_stocks:
+    npp_link: "https://npp.gov.in/public-reports/cea/daily/fuel/{}-{}-{}/dailyCoal1-{}-{}-{}.xlsx"
+    npp_historical_folder: "npp_coal_stocks/historical/"
+    npp_processed_file: "npp_coal_stocks/npp_coal_stocks.csv"
+    folder_location: "coal_stocks_data_test"
